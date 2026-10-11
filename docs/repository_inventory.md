@@ -2,11 +2,11 @@
 
 Automatically generated from the current repository.
 
-Tracked and untracked project files scanned: 2
+Tracked and untracked project files scanned: 3
 
 ## File types
 
 | Extension | Count |
 |---|---:|
-| `.md` | 1 |
+| `.md` | 2 |
 | `.py` | 1 |
