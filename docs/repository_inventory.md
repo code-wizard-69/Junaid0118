@@ -2,7 +2,7 @@
 
 Automatically generated from the current repository.
 
-Tracked and untracked project files scanned: 3
+Tracked and untracked project files scanned: 4
 
 ## File types
 
@@ -10,3 +10,4 @@ Tracked and untracked project files scanned: 3
 |---|---:|
 | `.md` | 2 |
 | `.py` | 1 |
+| `.yml` | 1 |
